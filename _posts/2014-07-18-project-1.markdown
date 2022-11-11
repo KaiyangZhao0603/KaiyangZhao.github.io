@@ -5,7 +5,6 @@ date: 2014-07-18
 img: Algorithm.png
 alt: image-alt
 project-date: Aug 2022
-client: Start Bootstrap
-category: Web Development
-description: “Harmony in Randomness” is a piece of algorithmic composition performed by Max/MSP and Ableton Live. This track features several original Max patchers and external Max packages like ml.* by Benjamin D. Smith. The inspiration for designing this program is from my friend's complaint about boredom after looping his favorite track several times. The goal for making this track is to apply randomness to music composition to reduce that kind of boredom.
+category: Algorithmic composition
+description: “Harmony in Randomness” is a piece of algorithmic composition performed by Max/MSP and Ableton Live. This track features several original Max patchers and external Max packages like ml.* by Benjamin D. Smith. The inspiration for designing this program is from my friend's complaint about boredom after looping his favorite track several times. The goal for making this track is to apply randomness to music composition to reduce that kind of boredom.(<a href="https://youtu.be/zId0vE_OMhE">Demonstration Video</a> / <a href="https://drive.google.com/file/d/1QhDPd_me1dxBbLhvE4_D6w-9xDY7pOF9/view?usp=sharing">Introduction Document</a>)
 ---
