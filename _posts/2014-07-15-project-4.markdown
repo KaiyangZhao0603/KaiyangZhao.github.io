@@ -5,6 +5,6 @@ date: 2014-07-15
 img: Chordmaker.png
 alt: image-alt
 project-date: Oct 2022
-category: Web Development
-description: '<a href="http://startbootstrap.com">ChordMaker</a> is my original MIDI effect plugin that can match diatonic seven chords to melody notes in real time. It supports selecting from 24 different natural minor/major scales, customizing the number of melody notes (up to 16), and matching chords at a certain sequence (some will be matched but some won’t). Users can also select the type of every chord (For example minor/major, dominant, and half-diminished chords). In order to improve user experience, I also designed an automated reset module and a lag module for every chord note to simulate the effect of a real person’s playing.'
+category: MIDI effect plugin
+description: '<a href="https://maxforlive.com/library/device/8474/chordmaker">ChordMaker</a> is my original MIDI effect plugin that can match diatonic seven chords to melody notes in real time. It supports selecting from 24 different natural minor/major scales, customizing the number of melody notes (up to 16), and matching chords at a certain sequence (some will be matched but some won’t). Users can also select the type of every chord (For example minor/major, dominant, and half-diminished chords). In order to improve user experience, I also designed an automated reset module and a lag module for every chord note to simulate the effect of a real person’s playing.'
 ---
