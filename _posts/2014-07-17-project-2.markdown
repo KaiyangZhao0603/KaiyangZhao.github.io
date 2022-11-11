@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: Gesture.png
 alt: image-alt
-project-date: April 2014
+project-date: Aug 2022
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: This gesture-controlled instrument is designed with Max/MSP/Jitter, Max external package cv.jit, and software synthesizer Serum. The motivation for designing this instrument is to conveniently play music with a single hand and a webcam. Thus, the ultimate principle of this design is to keep every operation as easy as possible. 
 ---
