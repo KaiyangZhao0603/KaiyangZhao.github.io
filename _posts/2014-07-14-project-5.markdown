@@ -1,10 +1,11 @@
 ---
 layout: default
-modal-id: 5
-date: 2014-07-14
+modal-id: 4
+date: 2014-07-15
 img: Secret.png
 alt: image-alt
 project-date: Aug 2022
 category: Screen scoring
 description: 'This is my screen-scoring work for the final scene of the short film "The Secret Number". And it's an improved version of my composition for the Indie Film Music Contest. (My original composition is a finalist of Young IFMC in the summer of 2022.) I took charge of the composition, sound design, and mixing/mastering work and gave this composition an eclectic style that contains both characteristics of classical and electronic music. The music score and detailed explanation are linked above. <a href="https://youtu.be/jKOXxqGi8iw">Video source</a>'
 ---
+
